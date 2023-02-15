@@ -1,0 +1,48 @@
+.container {
+    padding: 5%;
+}
+
+.orderHeading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttonDiv {
+    display: flex;
+    gap: 10px;
+}
+
+.orderDetails {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.orderDetails div {
+    display: flex;
+    flex-direction: column;
+}
+
+.itemHeading {
+    margin-top: 40px;
+}
+
+table{
+    margin-top: 40px;
+    width: 50%;
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#addButton{
+    float: right;
+}
+
+.newTable mat-form-field {
+    width: 30vh;
+   }

@@ -1,0 +1,32 @@
+.container {
+    padding: 5%;
+}
+
+.mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+    margin-bottom: -22px;
+}
+
+table {
+    width: 100%;
+}
+
+td,
+th {
+    width: 25%;
+}
+
+img {
+    margin: 10px;
+    height: 200px;
+    width: 160px;
+    border-radius: 15px;
+    border: 1px solid #dfdfdf;
+    object-fit: cover;
+}
+
+a{
+    text-decoration: none;
+    color: #efefef;
+}
